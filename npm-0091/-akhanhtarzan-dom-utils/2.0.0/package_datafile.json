@@ -1,0 +1,48 @@
+{
+    "name": "-akhanhtarzan-dom-utils",
+    "version": "2.0.0",
+    "description": "C\u00e1c h\u00e0m ti\u1ec7n \u00edch \u0111\u1ec3 x\u1eed l\u00fd DOM",
+    "main": "index.js",
+    "author": {
+        "name": "Khanh Tarzan"
+    },
+    "license": "MIT",
+    "keywords": [
+        "dom",
+        "manipulation",
+        "javascript",
+        "utils"
+    ],
+    "_id": "-akhanhtarzan-dom-utils@2.0.0",
+    "_nodeVersion": "23.6.0",
+    "_npmVersion": "10.9.2",
+    "dist": {
+        "integrity": "sha512-GPQdL854fDoYi4NBdDslPHlJiO7zfQNS9pvUiCMX9LQ9SfnEJfzrU2QyIJMjAINtlBM2SaJNfHalEZVDaVVfRw==",
+        "shasum": "89ef0bb0d7b32ea90474d58f090847e9a7941301",
+        "tarball": "https://registry.npmjs.org/-akhanhtarzan-dom-utils/-/-akhanhtarzan-dom-utils-2.0.0.tgz",
+        "fileCount": 2,
+        "unpackedSize": 1186,
+        "signatures": [
+            {
+                "keyid": "SHA256:DhQ8wR5APBvFHLF/+Tc+AYvPOdTpcIDqOhxsBHRwC7U",
+                "sig": "MEUCIQDtEV81qReR15HJfUNZra2qhHI13KsnMVBZqlIhGXkH0AIgGAhYgNzYyhoezcuG9Hk6+cuThAZHLRiIJRT4Y7nJfyk="
+            }
+        ]
+    },
+    "_npmUser": {
+        "name": "khanhtarzan",
+        "email": "dqkhanhdev@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "khanhtarzan",
+            "email": "dqkhanhdev@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages-npm-production",
+        "tmp": "tmp/-akhanhtarzan-dom-utils_2.0.0_1738933124092_0.04508599624990417"
+    },
+    "_hasShrinkwrap": false
+}
